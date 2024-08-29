@@ -1,7 +1,18 @@
 body {
-    background-color:beige;
+   background-image: url(https://img.freepik.com/free-photo/flat-lay-coffee-with-copy-space_23-2148464833.jpg?t=st=1724938958~exp=1724942558~hmac=8622034d61b3bd1639c9fb38e4b981c5005ef85732cedf30271b63496b9774a7&w=826);
+   background-repeat: no-repeat;
+   background-size: cover;
 }
+
 
 h1, h2, p {
     text-align: center;
   }
+
+.menu {
+    width: 100%;
+    background-color:rgba(136, 222, 135, 0.508);
+    margin-left:auto;
+    margin-right:auto;
+}
+
