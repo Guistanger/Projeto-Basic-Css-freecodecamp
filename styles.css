@@ -2,6 +2,7 @@ body {
    background-image: url(https://img.freepik.com/free-photo/flat-lay-coffee-with-copy-space_23-2148464833.jpg?t=st=1724938958~exp=1724942558~hmac=8622034d61b3bd1639c9fb38e4b981c5005ef85732cedf30271b63496b9774a7&w=826);
    background-repeat: no-repeat;
    background-size: cover;
+   font-family: cursive;
 }
 
 
@@ -10,20 +11,22 @@ h1, h2, p {
   }
 
 .menu {
+    max-width: 500px;
+    padding: 20px;
     width: 80%;
     background-color:rgba(245, 245, 220, 0.727);
     margin-left:auto;
     margin-right:auto;
 }
 
-.flavor {
+.flavor, .dessert {
     text-align: left;
-    width: 50%
+    width: 75%
 }
 
 .price {
     text-align: right;
-    width: 50%
+    width: 25%
 }
 
 .item p {
